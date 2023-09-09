@@ -1,0 +1,28 @@
+.cartBox {
+  border: 1px solid #DDD;
+  border-radius: 5px;
+  padding: 0 20px;
+  margin: 50px 0;
+
+}
+
+.cartBox .table .quantity{
+  display: flex;
+  justify-content: space-between;
+}
+
+.cartBox .table .quantity input{
+  margin: 0 20px;
+}
+
+.cartBox .table .quantity  tbody tr td{
+  border-bottom: 0;
+  text-align: center;
+vertical-align: middle;
+}
+
+ img{
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+}
